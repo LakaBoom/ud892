@@ -5,13 +5,13 @@ html, body {
   background-color: #AE501D; }
 
 h1 {
-  color: #FF1234;
+  color: rgba(115, 228, 167, 0.86);
   margin: 1em auto;
   margin-bottom: 2em;
   text-align: center;
   font-family: 'Lobster', cursive;
   font-size: 5em; }
-PP
+
 div.main {
   max-width: 700px;
   margin: 0 auto; }

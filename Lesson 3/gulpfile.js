@@ -21,5 +21,5 @@ gulp.task("styles", function() {
       })
     )
     .pipe(gulp.dest("./css"))
-    .pipe(browserSync.stream());
+    .pipe(browserSync.reload({stream:true}));
 });
